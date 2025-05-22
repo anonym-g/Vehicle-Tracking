@@ -1,0 +1,26 @@
+2025-05-22 15:49:51+0800 - INFO - Model path: G:\Projects\Vehicle Tracking\models\yolov8s.pt
+2025-05-22 15:49:51+0800 - INFO - Sample path: G:\Projects\Vehicle Tracking\samples\sample2.mp4
+2025-05-22 15:49:51+0800 - INFO - Output path: G:\Projects\Vehicle Tracking\processed\sample2_processed.mp4
+2025-05-22 15:49:51+0800 - INFO - OpenCV version: 4.11.0
+2025-05-22 15:49:51+0800 - INFO - Processing video with 475 frames at 25.0 FPS...
+2025-05-22 15:50:44+0800 - INFO - Model path: G:\Projects\Vehicle Tracking\models\yolov8s.pt
+2025-05-22 15:50:44+0800 - INFO - Sample path: G:\Projects\Vehicle Tracking\samples\sample2.mp4
+2025-05-22 15:50:44+0800 - INFO - Output path: G:\Projects\Vehicle Tracking\processed\sample2_processed.mp4
+2025-05-22 15:50:44+0800 - INFO - OpenCV version: 4.11.0
+2025-05-22 15:50:44+0800 - INFO - Processing video with 475 frames at 25.0 FPS...
+2025-05-22 15:51:21+0800 - INFO - Model path: G:\Projects\Vehicle Tracking\models\yolov8s.pt
+2025-05-22 15:51:21+0800 - INFO - Sample path: G:\Projects\Vehicle Tracking\samples\sample2.mp4
+2025-05-22 15:51:21+0800 - INFO - Output path: G:\Projects\Vehicle Tracking\processed\sample2_processed.mp4
+2025-05-22 15:51:21+0800 - INFO - OpenCV version: 4.11.0
+2025-05-22 15:51:21+0800 - INFO - Processing video with 475 frames at 25.0 FPS...
+2025-05-22 15:53:26+0800 - INFO - Model path: G:\Projects\Vehicle Tracking\models\yolov8s.pt
+2025-05-22 15:53:26+0800 - INFO - Sample path: G:\Projects\Vehicle Tracking\samples\sample2.mp4
+2025-05-22 15:53:26+0800 - INFO - Output path: G:\Projects\Vehicle Tracking\processed\sample2_processed.mp4
+2025-05-22 15:53:26+0800 - INFO - OpenCV version: 4.11.0
+2025-05-22 15:53:26+0800 - INFO - Processing video with 475 frames at 25.0 FPS...
+2025-05-22 15:53:26+0800 - INFO - Processing frame 1/475 (0.2%)
+2025-05-22 15:53:39+0800 - INFO - Processing frame 100/475 (21.1%)
+2025-05-22 15:53:48+0800 - INFO - Processing frame 200/475 (42.1%)
+2025-05-22 15:53:57+0800 - INFO - Processing frame 300/475 (63.2%)
+2025-05-22 15:54:07+0800 - INFO - Processing frame 400/475 (84.2%)
+2025-05-22 15:54:14+0800 - INFO - Video processing completed or failed to read frame.
