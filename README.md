@@ -27,5 +27,6 @@ sample_name = 'NameOfYourSample'
 5. Activate venv & run the code
 
 ```
+venv\Scripts\activate
 python vehicle_tracking.py
 ```
