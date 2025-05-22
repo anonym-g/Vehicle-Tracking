@@ -4,7 +4,11 @@ Vehicle Tracking program implemented with yolov8 &amp; opencv. Project of the le
 
 # Usage:
 
-1. Create virtual environment
+1. Create & activate the virtual environment
+
+```
+venv\Scripts\activate
+```
 
 2. Install requirements:
 
@@ -23,6 +27,5 @@ sample_name = 'NameOfYourSample'
 5. Activate venv & run the code
 
 ```
-venv\Scripts\activate
 python vehicle_tracking.py
 ```
